@@ -44,7 +44,7 @@ KiltHub (CMU repository)
 3. Was data derived from another source? Some of the fast human data were presented at the International Conference on Cognitive Modeling in 2020 (see Gianferrara, Betts, & Anderson, 2020).
 
 4. Recommended citation for this dataset: 
-Gianferrara, Betts, and Anderson (2023)
+Gianferrara, P. G., Betts, S. A., & Anderson, J. R. (2024). Periodic tapping mechanisms of skill learning in a fast-paced video game. Journal of Experimental Psychology: Human Perception and Performance, 50(1), 39.
 
 DATA & FILE OVERVIEW
 
