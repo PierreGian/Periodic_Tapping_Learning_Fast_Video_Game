@@ -36,7 +36,7 @@ Office of Naval Research Grant N00014-21-1-2586 and AFOSR/AFRL award FA9550-18-1
 SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data:
-Users have the right to download and use this code, but are required to cite Gianferrara, Betts, and Anderson (2023) when doing so.
+Users have the right to download and use this code, but are required to cite Gianferrara, Betts, and Anderson (2024) when doing so.
 
 2. Links to other publicly accessible locations of the data: 
 KiltHub (CMU repository)
