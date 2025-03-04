@@ -40,6 +40,8 @@ Users have the right to download and use this code, but are required to cite Gia
 
 2. Links to other publicly accessible locations of the data: 
 KiltHub (CMU repository)
+Gianferrara, Pierre; Betts, Shawn; Anderson, John (2022). Periodic Tapping Mechanisms of Skill Learning in a Fast-Paced Video Game. Carnegie Mellon University. Dataset. https://doi.org/10.1184/R1/21599775.v2
+https://kilthub.cmu.edu/articles/dataset/Periodic_Tapping_Mechanisms_of_Skill_Learning_in_a_Fast-Paced_Video_Game/21599775
 
 3. Was data derived from another source? Some of the fast human data were presented at the International Conference on Cognitive Modeling in 2020 (see Gianferrara, Betts, & Anderson, 2020).
 
