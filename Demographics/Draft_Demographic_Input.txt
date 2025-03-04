@@ -1,0 +1,43 @@
+name	condition1	condition2	Age	Gender	Ethnicity	DominantHand	PlayedVideoGames	CurrentlyPlay	ControllerHand	howLong	Platform	hoursPerWeek	flightsim	2dAction	3dPlatform	3dShooter	racing	sports	Relationship	Heard	Strategy
+A11LNK1U3DT08V	fast	fast	28	male	white	right	yes	yes	both	23	mobile	20	0	2	0	0	0	0	"social,challenge,competitive,skilled"	no	slow
+A122LRCSBAD6DC	fast	fast	27	male	white	right	yes	yes	right	10	pc	1	0	0	0	0	0	0	"challenge,competitive,skilled"	no	fast
+A13B8594JIUFDF	fast	fast	34	male	white	right	yes	yes	both	8	pc	14	3	5	4	3	5	6	"social,skilled"	no	slow
+A13G6IRFQBEE8K	fast	fast	30	male	white	right	yes	yes	left	25	pc	30	0	4	3	4	2	0	"social,challenge,competitive,skilled"	no	fast
+A13YOOKZFZJJ10	fast	fast	30	male	black	right	yes	yes	right	13	pc	2	6	5	6	4	5	5	"social,challenge,competitive"	no	slow
+A19X8IA9EKC3XH	fast	fast	36	male	black	right	yes	yes	left	30	pc	20	0	2	4	3	2	0	"social,challenge,competitive,skilled"	no	fast
+A1DHJE69R494AH	fast	fast	30	male	black	right	yes	yes	right	8	pc	38	4	5	5	4	4	3	social	it was good	slow
+A1EP3XESXAG0EP	fast	fast	32	female	Hispanic	right	yes	yes	both	10	mobile	3	0	1	1	2	0	1	challenge	no	slow
+A1FG2G0J8M9Q0N	fast	fast	40	female	white	right	yes	yes	right	10	mobile	10	1	1	1	1	1	1	"social,challenge"	no	slow
+A1RH69F7I73LRW	fast	fast	21	male	white	left	yes	yes	left	18	console	20	0	2	1	2	0	0	"challenge,skilled"	no	fast
+A1RV2LERVS0A4H	fast	fast	32	female	asian	right	yes	no	right	3	pc	5	0	2	0	0	2	0	challenge	no	slow
+A1SISJL5ST2PWH	fast	fast	36	male	asian	right	yes	yes	right	30	console	3	0	1	2	0	0	0	"social,challenge,skilled"	no	fast
+A1U2A42K8FV3RA	fast	fast	32	male	white	right	yes	yes	left	20	pc	30	1	1	2	5	1	0	"social,challenge"	no	fast
+A1U6L1L2CUQNU5	fast	fast	35	female	white	right	yes	yes	both	8	console	10	2	2	2	3	2	2	"social,competitive"	no	slow
+A25W2106F90G7L	fast	fast	58	male	white	right	yes	yes	right	5	pc	10	2	2	1	2	1	2	"social,challenge,competitive,skilled"	no	slow
+A2BFFKEYMCBFWW	fast	fast	30	male	black	right	yes	yes	right	20	pc	22	2	4	3	4	2	3	"social,challenge,competitive"	no	slow
+A2DMUU9GE8QA5Q	fast	fast	31	male	white	right	yes	yes	right	20	pc	28	4	5	4	5	4	5	"social,challenge,competitive,skilled"	no	slow
+A2FM6APZP3FN22	fast	fast	31	male	white	right	yes	yes	right	5	mobile	20	6	5	4	6	5	3	social	the games is interst	slow
+A2PW5825FIRONK	fast	fast	32	female	white	right	yes	yes	left	5	mobile	1	1	2	2	3	2	1	"social,challenge,competitive,skilled"	no	slow
+A2RY4MK1FONYH1	fast	fast	40	male	white	right	yes	yes	left	20	pc	1	0	0	1	1	1	0	"social,challenge,competitive"	no	slow
+A2W8TJXW68442D	fast	fast	40	female	white	right	yes	yes	right	25	console	4	0	1	1	2	0	0	"challenge,competitive,skilled"	no	slow
+A376AZWIBALRC	fast	fast	25	male	white	right	yes	yes	left	5	pc	1	1	1	1	2	2	0	"social,challenge,competitive"	no	slow
+A38V6MB0UIXY0N	fast	fast	25	male	white	right	yes	yes	both	2	pc	5	2	3	2	3	2	3	"social,challenge"	no	slow
+A3D1QQ8BEO75C6	fast	fast	39	female	white	right	yes	yes	right	10	pc	12	1	0	2	2	2	2	"social,challenge,competitive,skilled"	no	slow
+A3H2KP0VBENV3N	fast	fast	40	male	white	right	yes	yes	both	7	pc	15	3	4	3	4	3	4	"social,challenge,competitive,skilled"	no	slow
+A3IGG3RX4HXUV9	fast	fast	36	male	black	right	yes	yes	both	30	pc	48	1	2	3	4	5	6	"social,challenge,competitive,skilled"	no	slow
+A3LA0JBSIW4MUI	fast	fast	26	female	asian	right	yes	yes	both	18	handheld	5	0	0	2	0	0	0	"social,challenge"	no	slow
+A3LNWWZ7HGAGGM	fast	fast	48	male	white	right	yes	yes	both	5	pc	10	3	4	2	3	4	3	"social,challenge,competitive,skilled"	no	slow
+A3Q4Y5ONYPSQGF	fast	fast	38	male	white	right	yes	yes	right	4	pc	10	3	2	3	2	2	3	"social,competitive"	no	slow
+A7OZPNXIVO1FX	fast	fast	30	female	white	right	yes	yes	right	15	console	10	0	0	1	2	0	0	"challenge,skilled"	no	slow
+AAE1COF4E8740	fast	fast	25	male	white	right	yes	yes	left	18	pc	10	1	1	2	3	1	1	"social,challenge,competitive,skilled"	no	fast
+ACGHHDT7RY1AH	fast	fast	29	female	white	right	yes	yes	right	20	console	3	0	2	1	0	1	0	"social,challenge"	"You have to play a game for about an hour, and the game is very repetitive."	fast
+AFM65NU0UXIGP	fast	fast	31	male	white	right	yes	yes	right	20	console	12	0	1	2	2	1	0	"social,challenge,competitive,skilled"	no	fast
+AJZYNIL3ITOK0	fast	fast	37	male	white	right	yes	yes	both	5	pc	15	2	3	2	3	4	3	"social,challenge,competitive,skilled"	no	slow
+AQXRHIMQ7UK7O	fast	fast	37	female	white	right	yes	yes	right	27	handheld	12	0	1	1	0	3	0	social	no	slow
+ASZBND3G5UYJG	fast	fast	30	male	black	right	yes	no	both	2	mobile	1	0	0	0	0	1	1	social	no	slow
+AUPXYEKITX8UT	fast	fast	32	male	white	right	yes	yes	both	9	console	10	1	2	2	3	2	2	"social,competitive"	no	slow
+AXMPSUNKUBEIL	fast	fast	38	male	white	right	yes	yes	left	32	pc	7	0	2	2	1	1	1	"challenge,competitive,skilled"	no	slow
+AY4PZPXHSRCP5	fast	fast	44	male	white	right	yes	yes	right	25	pc	4	2	2	2	2	2	2	"social,challenge,competitive,skilled"	no	slow
+AY5OS6NZWVX22	fast	fast	38	female	white	right	yes	no	right	10	console	15	0	2	4	1	2	0	"social,challenge"	no	slow
+AZ8NBOTCBCLKG	fast	fast	29	female	white	right	yes	yes	right	5	console	5	0	1	2	1	2	0	"social,challenge,skilled"	no	slow
+			6.838288903																		
